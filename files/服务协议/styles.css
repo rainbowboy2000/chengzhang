@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u6580_div {
+#u7313_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -27,7 +27,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u6580 {
+#u7313 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -35,7 +35,7 @@
   width:360px;
   height:50px;
 }
-#u6581 {
+#u7314 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -44,7 +44,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u6582_img {
+#u7315_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -52,7 +52,7 @@
   width:40px;
   height:40px;
 }
-#u6582 {
+#u7315 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -60,7 +60,7 @@
   width:40px;
   height:40px;
 }
-#u6583 {
+#u7316 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -69,15 +69,24 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u6584_img {
+#u7317_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:129px;
   height:21px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
 }
-#u6584 {
+#u7317 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -87,7 +96,7 @@
   font-size:16px;
   color:#FFFFFF;
 }
-#u6585 {
+#u7318 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -95,15 +104,24 @@
   width:129px;
   white-space:nowrap;
 }
-#u6586_img {
+#u7319_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:340px;
   height:720px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#666666;
+  line-height:24px;
 }
-#u6586 {
+#u7319 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -113,7 +131,7 @@
   color:#666666;
   line-height:24px;
 }
-#u6587 {
+#u7320 {
   border-width:0px;
   position:absolute;
   left:0px;
