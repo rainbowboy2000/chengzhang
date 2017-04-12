@@ -8,7 +8,7 @@
   line-height:normal;
 }
 .heading_1 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -16,7 +16,7 @@
   text-align:left;
 }
 .heading_2 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -24,7 +24,7 @@
   text-align:left;
 }
 .heading_3 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -32,7 +32,7 @@
   text-align:left;
 }
 .heading_4 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -40,14 +40,14 @@
   text-align:left;
 }
 .heading_5 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#000000;
   text-align:left;
 }
 .heading_6 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -276,7 +276,7 @@
   text-align:left;
 }
 ._一级标题 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   font-size:32px;
